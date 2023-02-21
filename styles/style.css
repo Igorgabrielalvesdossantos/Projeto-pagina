@@ -44,7 +44,7 @@ color: var(--cor-segundacor);
 .cabecalho__menu__link{
     font-family: var(--fonte--principal);
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: 500;
     color: var(--cor-segundacor);
     text-decoration: none;
 }
